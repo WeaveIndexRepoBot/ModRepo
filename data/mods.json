@@ -1,7 +1,7 @@
 [
   {
     "name": "Syz66/VapeFix",
-    "description": "Fixes vape",
-    "shortdesc": "ong this mod fixes vape injection"
+    "shortdesc": "Fixes Vape injecting into Weave.",
+    "readme": "https://raw.githubusercontent.com/Syz66/VapeFix/master/README.md"
   }
 ]
