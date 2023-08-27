@@ -3,7 +3,7 @@
         "name": "VapeFix",
         "shortdesc": "Fixes Vape injecting into Weave.",
         "author": "Syz66",
-        "readme": "https://raw.githubusercontent.com/Syz66/VapeFix/master/README.md"
+        "readme": "https://raw.githubusercontent.com/Syz66/VapeFix/master/README.md",
         "murl": "https://github.com/Syz66/VapeFix/releases/download/2.0/VapeFix-2.0.jar"
     },
     {
