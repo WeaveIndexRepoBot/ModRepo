@@ -1,7 +1,9 @@
-{
-  "name": "Your mod name",
-  "shortdesc": "A short description of your mod",
-  "author": "Name of you or author of mod",
-  "readme": "readme url like this: https://raw.githubusercontent.com/Syz66/VapeFix/master/README.md",
-  "murl": "mod download url like this: (must be github)https://github.com/Syz66/VapeFix/releases/download/2.0/VapeFix-2.0.jar"
-},
+[
+  {
+    "name": "Your mod name",
+    "shortdesc": "A short description of your mod",
+    "author": "Name of you or author of mod",
+    "readme": "readme url like this: https://raw.githubusercontent.com/Syz66/VapeFix/master/README.md",
+    "murl": "mod download url like this: (must be github)https://github.com/Syz66/VapeFix/releases/download/2.0/VapeFix-2.0.jar"
+  },
+]
