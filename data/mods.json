@@ -1,12 +1,14 @@
 [
     {
-        "name": "Syz66/VapeFix",
+        "name": "VapeFix",
         "shortdesc": "Fixes Vape injecting into Weave.",
+        "author": "Syz66",
         "readme": "https://raw.githubusercontent.com/Syz66/VapeFix/master/README.md"
     },
     {
-        "name": "Syz66/JumpReset",
+        "name": "JumpReset",
         "shortdesc": "An auto jump reset mod",
+        "author": "Syz66",
         "readme": "https://raw.githubusercontent.com/Syz66/JumpReset/master/README.md"
     }
 ]
