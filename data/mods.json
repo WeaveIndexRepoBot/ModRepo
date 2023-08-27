@@ -12,5 +12,40 @@
         "author": "Syz66",
         "readme": "https://raw.githubusercontent.com/Syz66/JumpReset/master/README.md",
         "murl": "https://github.com/Syz66/JumpReset/releases/download/1.0/JumpReset-1.0.jar"
+    },
+    {
+        "name": "BloodKillEffect",
+        "shortdesc": "A simple mod that spawns blood particles when a player dies.",
+        "author": "Syz66",
+        "readme": "https://raw.githubusercontent.com/Syz66/BloodKillEffect/main/README.md",
+        "murl": "https://github.com/Syz66/BloodKillEffect/releases/download/1.1/BloodKillEffect-1.1.jar"
+    },
+    {
+        "name": "GG",
+        "shortdesc": "AutoGG for your favorite servers.",
+        "author": "Syz66",
+        "readme": "https://raw.githubusercontent.com/Syz66/GG/main/README.md",
+        "murl": "https://github.com/Syz66/GG/releases/download/3.0/GG-3.0.jar"
+    },
+    {
+        "name": "AlwaysSwing",
+        "shortdesc": "Visually removes \"Hit Delay\" on 1.8.9 with Weave!",
+        "author": "Syz66",
+        "readme": "https://raw.githubusercontent.com/Syz66/AlwaysSwing/main/README.md",
+        "murl": "https://github.com/Syz66/AlwaysSwing/releases/download/1.1/AlwaysSwing-1.1.jar"
+    },
+    {
+        "name": "Weave-Raw-Input",
+        "shortdesc": "Raw mouse input for Weave.",
+        "author": "koxx12-dev",
+        "readme": "https://raw.githubusercontent.com/koxx12-dev/Weave-Raw-Input/master/README.md",
+        "murl": "https://github.com/koxx12-dev/Weave-Raw-Input/releases/download/1.0.1/RawInput-1.0.1.jar"
+    },
+    {
+        "name": "RavenWeave",
+        "shortdesc": "A Raven fork based off of Raven B++ for Weave.",
+        "author": "PianoPenguin471",
+        "readme": "https://raw.githubusercontent.com/PianoPenguin471/RavenWeave/main/README.md",
+        "murl": "https://github.com/PianoPenguin471/RavenWeave/releases/download/1.1.3/RavenWeave-1.1.3.jar"
     }
 ]
