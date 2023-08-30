@@ -68,9 +68,9 @@
         "murl": "https://github.com/Syz66/Herta/releases/download/1.1/Herta-1.0.jar"
     },
     {
-        "name": "Nilsen84/WeaveNoHitDelay",
-        "shortdesc": null,
-        "readme": "https://raw.githubusercontent.com/Nilsen84/WeaveNoHitDelay/master/README.md",
-        "murl": "https://github.com/Nilsen84/WeaveNoHitDelay/releases/download/v2.0/WeaveNoHitDelay-2.0.jar"
+        "name": "AriaJackie/Fractal",
+        "shortdesc": "A weave mod | A Lunar injectable and open source cheat.",
+        "readme": "https://raw.githubusercontent.com/AriaJackie/Fractal/master/README.md",
+        "murl": "https://github.com/AriaJackie/Fractal/releases/download/release-1.2/fractal-weave-1.2.jar"
     }
 ]
