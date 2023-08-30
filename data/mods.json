@@ -54,5 +54,11 @@
         "author": "Ultramicroscope",
         "readme": "https://raw.githubusercontent.com/Ultramicroscope/HuTao/main/README.md",
         "murl": "https://github.com/Ultramicroscope/HuTao/releases/download/1.0/hutao-1.0.jar"
+    },
+    {
+        "name": "Syz66/Herta",
+        "shortdesc": "Spinning Herta mod for Minecraft Forge 1.8.9",
+        "readme": "https://raw.githubusercontent.com/Syz66/Herta/master/README.md",
+        "murl": "https://github.com/Syz66/Herta/releases/download/1.1/Herta-1.0.jar"
     }
 ]
