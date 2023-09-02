@@ -1,6 +1,94 @@
-{
-    "name": "ballmc/LunarWeaveRPC",
-    "shortdesc": "LunarWeaveRPC fixes the Discord rich presence not showing up correctly for Lunar Client on MacOS and Linux.",
-    "readme": "https://raw.githubusercontent.com/ballmc/LunarWeaveRPC/master/README.md",
-    "murl": "https://github.com/ballmc/LunarWeaveRPC/releases/download/latest/LunarWeaveRPC-1.0.0.jar"
-}
+[
+    {
+        "name": "legitish/Legit-ish-Weave",
+        "shortdesc": "Utility mod for Weave.",
+        "readme": "https://raw.githubusercontent.com/legitish/Legit-ish-Weave/master/README.md",
+        "murl": "https://github.com/legitish/Legit-ish-Weave/releases/download/v2.0.0-beta/legitish-2.0.0-beta.jar"
+    },
+    {
+        "name": "VapeFix",
+        "shortdesc": "Fixes Vape injecting into Weave.",
+        "author": "Syz66",
+        "readme": "https://raw.githubusercontent.com/Syz66/VapeFix/master/README.md",
+        "murl": "https://github.com/Syz66/VapeFix/releases/download/2.0/VapeFix-2.0.jar"
+    },
+    {
+        "name": "JumpReset",
+        "shortdesc": "An auto jump reset mod",
+        "author": "Syz66",
+        "readme": "https://raw.githubusercontent.com/Syz66/JumpReset/master/README.md",
+        "murl": "https://github.com/Syz66/JumpReset/releases/download/1.0/JumpReset-1.0.jar"
+    },
+    {
+        "name": "BloodKillEffect",
+        "shortdesc": "A simple mod that spawns blood particles when a player dies.",
+        "author": "Syz66",
+        "readme": "https://raw.githubusercontent.com/Syz66/BloodKillEffect/main/README.md",
+        "murl": "https://github.com/Syz66/BloodKillEffect/releases/download/1.1/BloodKillEffect-1.1.jar"
+    },
+    {
+        "name": "GG",
+        "shortdesc": "AutoGG for your favorite servers.",
+        "author": "Syz66",
+        "readme": "https://raw.githubusercontent.com/Syz66/GG/main/README.md",
+        "murl": "https://github.com/Syz66/GG/releases/download/3.0/GG-3.0.jar"
+    },
+    {
+        "name": "AlwaysSwing",
+        "shortdesc": "Visually removes \"Hit Delay\" on 1.8.9 with Weave!",
+        "author": "Syz66",
+        "readme": "https://raw.githubusercontent.com/Syz66/AlwaysSwing/main/README.md",
+        "murl": "https://github.com/Syz66/AlwaysSwing/releases/download/1.1/AlwaysSwing-1.1.jar"
+    },
+    {
+        "name": "Weave-Raw-Input",
+        "shortdesc": "Raw mouse input for Weave.",
+        "author": "koxx12-dev",
+        "readme": "https://raw.githubusercontent.com/koxx12-dev/Weave-Raw-Input/master/README.md",
+        "murl": "https://github.com/koxx12-dev/Weave-Raw-Input/releases/download/1.0.1/RawInput-1.0.1.jar"
+    },
+    {
+        "name": "RavenWeave",
+        "shortdesc": "A Raven fork based off of Raven B++ for Weave.",
+        "author": "PianoPenguin471",
+        "readme": "https://raw.githubusercontent.com/PianoPenguin471/RavenWeave/main/README.md",
+        "murl": "https://github.com/PianoPenguin471/RavenWeave/releases/download/1.1.3/RavenWeave-1.1.3.jar"
+    },
+    {
+        "name": "HuTao",
+        "shortdesc": "Draws a dancing Hu Tao in the bottom right of your screen.",
+        "author": "Ultramicroscope",
+        "readme": "https://raw.githubusercontent.com/Ultramicroscope/HuTao/main/README.md",
+        "murl": "https://github.com/Ultramicroscope/HuTao/releases/download/1.0/hutao-1.0.jar"
+    },
+    {
+        "name": "Nilsen84/WeaveNoHitDelay",
+        "shortdesc": null,
+        "readme": "https://raw.githubusercontent.com/Nilsen84/WeaveNoHitDelay/master/README.md",
+        "murl": "https://github.com/Nilsen84/WeaveNoHitDelay/releases/download/v2.0/WeaveNoHitDelay-2.0.jar"
+    },
+    {
+        "name": "Syz66/Herta",
+        "shortdesc": "Spinning Herta mod for Minecraft Forge 1.8.9",
+        "readme": "https://raw.githubusercontent.com/Syz66/Herta/master/README.md",
+        "murl": "https://github.com/Syz66/Herta/releases/download/1.1/Herta-1.0.jar"
+    },
+    {
+        "name": "AriaJackie/Fractal",
+        "shortdesc": "A weave mod | A Lunar injectable and open source cheat.",
+        "readme": "https://raw.githubusercontent.com/AriaJackie/Fractal/master/README.md",
+        "murl": "https://github.com/AriaJackie/Fractal/releases/download/release-1.2/fractal-weave-1.2.jar"
+    },
+    {
+        "name": "Yan-Jobs/mm-utils",
+        "shortdesc": "A Hypixel Murder Mystery Utilities Weave mod (Lunar Client compatible).",
+        "readme": "https://raw.githubusercontent.com/Yan-Jobs/mm-utils/master/README.md",
+        "murl": "https://github.com/Yan-Jobs/mm-utils/releases/download/v1/MMUtils-1.0.jar"
+    },
+    {
+        "name": "770grappenmaker/weave-optifine-url",
+        "shortdesc": "Allows you to specify a new URL for the Optifine cape server",
+        "readme": "https://raw.githubusercontent.com/770grappenmaker/weave-optifine-url/master/README.md",
+        "murl": "https://github.com/770grappenmaker/weave-optifine-url/releases/download/v0.1/weave-optifine-url-0.1.jar"
+    }
+]
