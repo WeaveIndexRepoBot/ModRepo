@@ -13,12 +13,6 @@
         "murl": "https://github.com/Syz66/VapeFix/releases/download/2.0/VapeFix-2.0.jar"
     },
     {
-        "name": "770grappenmaker/weave-optifine-url",
-        "shortdesc": "Allows you to specify a new URL for the Optifine cape server",
-        "readme": "https://raw.githubusercontent.com/770grappenmaker/weave-optifine-url/master/README.md",
-        "murl": "https://github.com/770grappenmaker/weave-optifine-url/releases/download/v0.1/weave-optifine-url-0.1.jar"
-    },
-    {
         "name": "JumpReset",
         "shortdesc": "An auto jump reset mod",
         "author": "Syz66",
@@ -84,5 +78,11 @@
         "shortdesc": "A weave mod | A Lunar injectable and open source cheat.",
         "readme": "https://raw.githubusercontent.com/AriaJackie/Fractal/master/README.md",
         "murl": "https://github.com/AriaJackie/Fractal/releases/download/release-1.2/fractal-weave-1.2.jar"
+    },
+    {
+        "name": "Yan-Jobs/mm-utils",
+        "shortdesc": "A Hypixel Murder Mystery Utilities Weave mod (Lunar Client compatible).",
+        "readme": "https://raw.githubusercontent.com/Yan-Jobs/mm-utils/master/README.md",
+        "murl": "https://github.com/Yan-Jobs/mm-utils/releases/download/v1/MMUtils-1.0.jar"
     }
 ]
