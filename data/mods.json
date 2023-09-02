@@ -104,9 +104,9 @@
         "murl": "https://github.com/Yan-Jobs/pit-quick-maths/releases/download/v1.0.1-weave/PitQuickMathsLunar-1.0.1.jar"
     },
     {
-        "name": "ballmc/LunarWeaveRPC",
-        "shortdesc": "LunarWeaveRPC fixes the Discord rich presence not showing up correctly for Lunar Client on MacOS and Linux.",
-        "readme": "https://raw.githubusercontent.com/ballmc/LunarWeaveRPC/master/README.md",
-        "murl": "https://github.com/ballmc/LunarWeaveRPC/releases/download/latest/LunarWeaveRPC-1.0.0.jar"
+        "name": "1lylily/WeavePeacefulMining",
+        "shortdesc": "Weave Loader recreation of Cosmic Client's peaceful mining feature.",
+        "readme": "https://raw.githubusercontent.com/1lylily/WeavePeacefulMining/master/README.md",
+        "murl": "https://github.com/1lylily/WeavePeacefulMining/releases/download/1.0.1/WeavePeacefulMining-1.0.jar"
     }
 ]
