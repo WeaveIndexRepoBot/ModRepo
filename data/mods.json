@@ -1,5 +1,11 @@
 [
     {
+        "name": "ballmc/LunarWeaveRPC",
+        "shortdesc": "LunarWeaveRPC fixes the Discord rich presence not showing up correctly for Lunar Client on MacOS and Linux.",
+        "readme": "https://raw.githubusercontent.com/ballmc/LunarWeaveRPC/master/README.md",
+        "murl": "https://github.com/ballmc/LunarWeaveRPC/releases/download/latest/LunarWeaveRPC-1.0.0.jar"
+    },
+    {
         "name": "legitish/Legit-ish-Weave",
         "shortdesc": "Utility mod for Weave.",
         "readme": "https://raw.githubusercontent.com/legitish/Legit-ish-Weave/master/README.md",
