@@ -1,9 +1,9 @@
 [
     {
-        "name": "ballmc/LunarWeaveRPC",
-        "shortdesc": "LunarWeaveRPC fixes the Discord rich presence not showing up correctly for Lunar Client on MacOS and Linux.",
-        "readme": "https://raw.githubusercontent.com/ballmc/LunarWeaveRPC/master/README.md",
-        "murl": "https://github.com/ballmc/LunarWeaveRPC/releases/download/latest/LunarWeaveRPC-1.0.0.jar"
+        "name": "oVxrtex/Weave2DEspPlayerOnly",
+        "shortdesc": "Additions to Weave's 2D Esp tutorial",
+        "readme": "https://raw.githubusercontent.com/oVxrtex/Weave2DEspPlayerOnly/master/README.md",
+        "murl": "https://github.com/oVxrtex/Weave2DEspPlayerOnly/releases/download/b1.1/Weave2DEspPlayerOnly.jar"
     },
     {
         "name": "legitish/Legit-ish-Weave",
