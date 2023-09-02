@@ -86,9 +86,9 @@
         "murl": "https://github.com/Yan-Jobs/mm-utils/releases/download/v1/MMUtils-1.0.jar"
     },
     {
-        "name": "ballmc/LunarWeaveRPC",
-        "shortdesc": "LunarWeaveRPC fixes the Discord rich presence not showing up correctly for Lunar Client on MacOS and Linux.",
-        "readme": "https://raw.githubusercontent.com/ballmc/LunarWeaveRPC/master/README.md",
-        "murl": "https://github.com/ballmc/LunarWeaveRPC/releases/download/latest/LunarWeaveRPC-1.0.0.jar"
+        "name": "770grappenmaker/weave-optifine-url",
+        "shortdesc": "Allows you to specify a new URL for the Optifine cape server",
+        "readme": "https://raw.githubusercontent.com/770grappenmaker/weave-optifine-url/master/README.md",
+        "murl": "https://github.com/770grappenmaker/weave-optifine-url/releases/download/v0.1/weave-optifine-url-0.1.jar"
     }
 ]
